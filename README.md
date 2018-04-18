@@ -1,5 +1,12 @@
 # esp12-solderless-flasher-adapter
-Flash a firmware to the ESP-12 before soldering it in a pcb.
+<h2>Flash a firmware to the ESP-12 before soldering it in a pcb.</h2>
+
+
+![PCB BOTTOM VIEW](https://github.com/egzola/esp12-solderless-flasher-adapter/blob/master/picture1.png?raw=true)
+
+
+![PCB BOTTOM VIEW](https://github.com/egzola/esp12-solderless-flasher-adapter/blob/master/picture2.png?raw=true)
+
 
 [![Watch the video](https://github.com/egzola/esp12-solderless-flasher-adapter/blob/master/esp12adapter.png?raw=true)](https://youtu.be/vXDHyCQ3suw)
 
